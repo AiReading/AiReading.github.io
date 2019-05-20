@@ -1,1 +1,1 @@
-# AiReading.github.io
+# easy reading project
